@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bidyendu</h1>
-<h3 align="center">An entrepreneur cum game developer cum web developer from India</h3>
+<h3 align="center">An entrepreneur cum game developer cum Full Stack web developer</h3>
 
 - 🔭 I’m currently working on **Top Secret 🤫🤫🤫 game**
 
