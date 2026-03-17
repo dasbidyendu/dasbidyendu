@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Bidyendu!  
 
-🎮 **Game Developer | Full-Stack Developer | Technologist**  
+**Game Developer | Full-Stack Developer | Technologist**  
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
 Hi there! I’m Bidyendu, a tech enthusiast with a passion for creating immersive experiences and solving complex problems through code. My expertise spans **game development**, **graphics programming**, and **web development**, and I enjoy exploring cutting-edge technologies to bring ideas to life.  
 
-### 🛠️ **What I Do**  
+### **What I Do**  
 - **Game Development:** Experienced in building games using **Unity** and **Unreal Engine**, focusing on gameplay, level design, and technical art.  
 - **Unity Multiplayer & Networking:** Built real-time multiplayer experiences using **Unity Netcode**, Photon, and Mirror, including VR and AR multiplayer games.  
 - **AR/VR Development:** Designed and implemented interactive AR and VR applications, blending immersive technology with engaging gameplay.  
@@ -17,7 +17,7 @@ Hi there! I’m Bidyendu, a tech enthusiast with a passion for creating immersiv
 
 ---
 
-## 📂 Current Projects  
+## Current Projects  
 - **2D Game Engine**  
   Building a high-performance 2D Game Engine **BDEngine2D** using **C++**, **RayLib**, **ImGUI** & **Lua** for scripting API.
   
@@ -41,16 +41,16 @@ Hi there! I’m Bidyendu, a tech enthusiast with a passion for creating immersiv
 
 ---
 
-## 📚 Skills & Tools  
+## Skills & Tools  
 
-### 💻 Programming Languages  
+###  Programming Languages  
 - C++  
 - TypeScript  
 - Python  
 - C# (Unity)  
 - JavaScript  
 
-### 🛠️ Tools & Frameworks  
+### Tools & Frameworks  
 - Unity (including Multiplayer, AR, VR, Netcode, Mirror, Photon)  
 - Unreal Engine (Level Design, Blueprints, Sequencer)  
 - Firebase  
@@ -66,7 +66,7 @@ Hi there! I’m Bidyendu, a tech enthusiast with a passion for creating immersiv
 - Pandas, Scikit-learn, Seaborn (Python ML/Data)  
 - Adobe Photoshop & Illustrator  
 
-### 🎓 Areas of Interest  
+### Areas of Interest  
 - Game Mechanics & Systems  
 - Graphics Programming  
 - Multiplayer Networking  
@@ -77,7 +77,7 @@ Hi there! I’m Bidyendu, a tech enthusiast with a passion for creating immersiv
 
 ---
 
-## 🌟 Achievements  
+## Achievements  
 
 - **CTO at Startique:** Co-founded and built innovative tech solutions.  
 - **Innovision Contributions:** Created impactful projects like Campus Survival VR, blending VR and multiplayer elements.  
@@ -88,7 +88,7 @@ Hi there! I’m Bidyendu, a tech enthusiast with a passion for creating immersiv
 
 ---
 
-## 🤝 Let’s Collaborate!  
+## Let’s Collaborate!  
 
 I’m always excited to work on:  
 - Cutting-edge **game development** projects (Unity, Unreal Engine, multiplayer, AR/VR).  
