@@ -13,13 +13,14 @@ Hi there! I’m Bidyendu, a tech enthusiast with a passion for creating immersiv
 - **Unity Multiplayer & Networking:** Built real-time multiplayer experiences using **Unity Netcode**, Photon, and Mirror, including VR and AR multiplayer games.  
 - **AR/VR Development:** Designed and implemented interactive AR and VR applications, blending immersive technology with engaging gameplay.  
 - **Web Development:** Proficient in **Next.js**, **TypeScript**, and **Firebase**, building dynamic and interactive web applications.  
-- **Programming:** Currently diving deep into **C++ graphics programming** and **machine learning from scratch**, exploring low-level implementations and optimizations.  
-- **Hackathons & Teamwork:** Thrived in challenges like the **IGDC Game Jam** and **IITM Tech Meet**, collaborating with diverse teams to create impactful projects.  
+- **Programming:** Currently diving deep into **C++ graphics programming** and **machine learning from scratch**, exploring low-level implementations and optimizations.    
 
 ---
 
 ## 📂 Current Projects  
-
+- **2D Game Engine**  
+  Building a high-performance 2D Game Engine **BDEngine2D** using **C++**, **RayLib**, **ImGUI** & **Lua** for scripting API.
+  
 - **Game-Themed Portfolio Website**  
   Crafting a unique portfolio in a game-like style to showcase my work and skills interactively.  
 
